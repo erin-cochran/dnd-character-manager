@@ -1,0 +1,20 @@
+{
+  "name": "dnd-character-manager",
+  "version": "1.0.0",
+  "description": "character sheet, spellbook, and whatever else I need to keep track of a character in D&D.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erin-cochran/dnd-character-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erin-cochran/dnd-character-manager/issues"
+  },
+  "homepage": "https://github.com/erin-cochran/dnd-character-manager#readme"
+}
